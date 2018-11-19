@@ -1,0 +1,2 @@
+Fixed an error where the ball would go offscreen when proceeding to bounce on the top or bottom of the screen
+Fixed the speed of the ball and paddles being rather slow. 
